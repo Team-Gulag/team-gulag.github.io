@@ -12,7 +12,7 @@
             Nimi: Jari Loippo <br>
             Email: K1729@student.jamk.fi <br>
             puh: 040 716 2132 <br>
-            LinkedIn: https://www.linkedin.com/in/jari-loippo-272331115/<br>
+           <a href="https://www.linkedin.com/in/jari-loippo-272331115/">LinkedIn</a><br>
         </td>
     </tr>
     <tr>
@@ -23,7 +23,7 @@
             Nimi: Valtteri Seuranen<br>
             Email: K1967@student.jamk.fi   <br>
             puh: 044 010 1896 <br>
-            LinkedIn: https://www.linkedin.com/in/valtteri-seuranen-mainpage/<br>
+            <a href="https://www.linkedin.com/in/valtteri-seuranen-mainpage/">LinkedIn</a><br>
         </td>
     </tr>
     <tr>
@@ -34,7 +34,7 @@
             Nimi: Rami Ojala  <br>
             Email: K8412@student.jamk.fi  <br>
             puh: 045 861 6887 <br>
-            LinkedIn: https://www.linkedin.com/in/raojala/<br>
+            <a href="https://www.linkedin.com/in/raojala/">LinkedIn</a><br>
         </td>
     </tr>
     <tr>
@@ -45,7 +45,7 @@
             Nimi: Ville Rantala<br>
             Email: K1533@student.jamk.fi   <br>
             puh: 040 867 7992 <br>
-            LinkedIn: https://www.linkedin.com/in/ville-rantala-a90982137/ <br>
+            <a href="https://www.linkedin.com/in/ville-rantala-a90982137/">LinkedIn</a><br>
         </td>
     </tr>
     <tr>
@@ -56,7 +56,7 @@
             Nimi: Risto Laine<br>
             Email: K1516@student.jamk.fi   <br>
             puh: 040 077 9137<br>
-            LinkedIn: https://www.linkedin.com/in/risto-laine-53066a149/ <br>
+            <a href="https://www.linkedin.com/in/risto-laine-53066a149/">LinkedIn</a><br>
         </td>
     </tr>
 </table>
