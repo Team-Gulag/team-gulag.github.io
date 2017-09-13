@@ -18,7 +18,7 @@
     <tr>
         <td><img src ="https://raw.githubusercontent.com/LargeMammal/largemammal.github.io/master/Images/Rami.jpg" width="200px"></td>
         <td>
-            Rooli: <br>
+            Rooli: Ohjelmoija <br>
             Vahvuudet: Motivaatio, Ohjelmointi, Oppiminen <br>
             Nimi: Rami Ojala  <br>
             Email: K8412@student.jamk.fi  <br>
@@ -29,7 +29,7 @@
     <tr>
         <td><img src ="https://raw.githubusercontent.com/LargeMammal/largemammal.github.io/master/Images/valtteri.jpg" width="200px"></td>
         <td>
-            Rooli:  <br>
+            Rooli: Sihteeri <br>
             Vahvuudet: Päättäväisyys, Ohjelmointi <br>
             Nimi: Valtteri Seuranen<br>
             Email: K1967@student.jamk.fi   <br>
@@ -40,6 +40,7 @@
     <tr>
         <td><img src ="https://raw.githubusercontent.com/LargeMammal/largemammal.github.io/master/Images/ville.jpg" width="200px"></td>
         <td>
+            Rooli: Ohjelmoija <br>
             Vahvuudet: Osaa monia ohjelmointikieliä, Debuggaus <br>
             Nimi: Ville Rantala<br>
             Email: K1533@student.jamk.fi   <br>
@@ -50,7 +51,7 @@
     <tr>
         <td><img src ="https://raw.githubusercontent.com/LargeMammal/largemammal.github.io/master/Images/Risto.jpg" width="200px"></td>
         <td>
-            Rooli: <br>
+            Rooli: Ohjelmoija <br>
             Vahvuudet: Oppiminen, järjestelmällisyys <br>
             Nimi: Risto Laine<br>
             Email: K1516@student.jamk.fi   <br>
