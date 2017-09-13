@@ -16,6 +16,17 @@
         </td>
     </tr>
     <tr>
+        <td><img src ="https://raw.githubusercontent.com/LargeMammal/largemammal.github.io/master/Images/valtteri.jpg" width="200px">           </td>
+        <td>
+            Rooli: Sihteeri <br>
+            Vahvuudet: Päättäväisyys, Ohjelmointi <br>
+            Nimi: Valtteri Seuranen<br>
+            Email: K1967@student.jamk.fi   <br>
+            puh: 044 010 1896 <br>
+            LinkedIn: https://www.linkedin.com/in/valtteri-seuranen-mainpage/<br>
+        </td>
+    </tr>
+    <tr>
         <td><img src ="https://raw.githubusercontent.com/LargeMammal/largemammal.github.io/master/Images/Rami.jpg" width="200px"></td>
         <td>
             Rooli: Ohjelmoija <br>
@@ -24,17 +35,6 @@
             Email: K8412@student.jamk.fi  <br>
             puh: 045 861 6887 <br>
             LinkedIn: https://www.linkedin.com/in/raojala/<br>
-        </td>
-    </tr>
-    <tr>
-        <td><img src ="https://raw.githubusercontent.com/LargeMammal/largemammal.github.io/master/Images/valtteri.jpg" width="200px"></td>
-        <td>
-            Rooli: Sihteeri <br>
-            Vahvuudet: Päättäväisyys, Ohjelmointi <br>
-            Nimi: Valtteri Seuranen<br>
-            Email: K1967@student.jamk.fi   <br>
-            puh: 044 010 1896 <br>
-            LinkedIn: https://www.linkedin.com/in/valtteri-seuranen-mainpage/<br>
         </td>
     </tr>
     <tr>
