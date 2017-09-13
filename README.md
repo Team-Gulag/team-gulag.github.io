@@ -1,4 +1,4 @@
-# Gulag
+# Team-Gulag
 <p> Karattiin gulagilta siperiassa. Tavattiin karhuperhe, syötiin pennut ja rattastettiin isä ja äiti karhu suomeen. Nyt tuomme gulagilta oppimamme salaisuudet mukanamme Suomeen.</p>  
 
 ## Tiimi
