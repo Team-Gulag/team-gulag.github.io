@@ -5,7 +5,7 @@
 
 <table>
     <tr>
-        <td><img src ="https://raw.githubusercontent.com/LargeMammal/largemammal.github.io/master/Images/Jari.jpg" width="300px"></td>
+        <td><img src ="https://raw.githubusercontent.com/LargeMammal/largemammal.github.io/master/Images/Jari.jpg" width="200px"></td>
         <td>
             Vahvuudet: Sosiaalinen, Mielikuvitus, Ohjelmointi <br>
             Nimi: Jari Loippo <br>
@@ -14,7 +14,7 @@
         </td>
     </tr>
     <tr>
-        <td><img src ="https://raw.githubusercontent.com/LargeMammal/largemammal.github.io/master/Images/Rami.jpg" width="300px"></td>
+        <td><img src ="https://raw.githubusercontent.com/LargeMammal/largemammal.github.io/master/Images/Rami.jpg" width="200px"></td>
         <td>
             Vahvuudet: Motivaatio, Ohjelmointi, Oppiminen <br>
             Nimi: Rami Ojala  <br>
@@ -23,7 +23,7 @@
         </td>
     </tr>
     <tr>
-        <td><img src ="https://raw.githubusercontent.com/LargeMammal/largemammal.github.io/master/Images/valtteri.jpg" width="300px"></td>
+        <td><img src ="https://raw.githubusercontent.com/LargeMammal/largemammal.github.io/master/Images/valtteri.jpg" width="200px"></td>
         <td>
             Vahvuudet: Päättäväisyys, Ohjelmointi <br>
             Nimi: Valtteri Seuranen<br>
@@ -32,7 +32,7 @@
         </td>
     </tr>
     <tr>
-        <td><img src ="https://raw.githubusercontent.com/LargeMammal/largemammal.github.io/master/Images/ville.jpg" width="300px"></td>
+        <td><img src ="https://raw.githubusercontent.com/LargeMammal/largemammal.github.io/master/Images/ville.jpg" width="200px"></td>
         <td>
             Vahvuudet: Osaa monia ohjelmointikieliä, Debuggaus <br>
             Nimi: Ville Rantala<br>
@@ -41,7 +41,7 @@
         </td>
     </tr>
     <tr>
-        <td><img src ="https://raw.githubusercontent.com/LargeMammal/largemammal.github.io/master/Images/Risto.jpg" width="300px"></td>
+        <td><img src ="https://raw.githubusercontent.com/LargeMammal/largemammal.github.io/master/Images/Risto.jpg" width="200px"></td>
         <td>
             Vahvuudet:  <br>
             Nimi: Risto Laine<br>
