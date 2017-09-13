@@ -1,5 +1,5 @@
 # Gulag
-<p> Karattiin gulagilta siperiassa. Tavattiin karhuperhe, syötiin pennut ja rattastettiin isä ja äiti karhu suomeen. Nyt tuomme gulagista oppimamme kyberturvallisuus taidot mukanamme suomeen.</p>  
+<p> Karattiin gulagilta siperiassa. Tavattiin karhuperhe, syötiin pennut ja rattastettiin isä ja äiti karhu suomeen. Nyt tuomme gulagista oppimamme salaisuudet mukanamme suomeen.</p>  
 
 ## Tiimi
 
