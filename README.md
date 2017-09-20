@@ -52,7 +52,7 @@
         <td><img src ="https://raw.githubusercontent.com/LargeMammal/largemammal.github.io/master/Images/Risto.jpg" width="200px"></td>
         <td>
             Nimi: Risto Laine<br>
-            Rooli: Ohjelmoija <br>
+            Rooli: Ohjelmoija / Testaaja <br>
             Vahvuudet: Oppiminen, järjestelmällisyys <br>
             Email: K1516@student.jamk.fi   <br>
             puh: 040 077 9137<br>
